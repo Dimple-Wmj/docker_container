@@ -1,1 +1,2 @@
-FROM nginx
+#FROM nginx
+FROM gcr.io/google_containers/nginx-slim:0.8
