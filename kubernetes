@@ -1,0 +1,1 @@
+FROM journeycode/kubernetes:latest
